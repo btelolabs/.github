@@ -32,7 +32,7 @@ no shipping for shipping's sake.
 
 | | Product | What it does |
 |---|---|---|
-| <img src="https://btelo.com/public/logo-vibe-remote.png" width="40" /> | **[Vibe Remote](https://vibe-remote.com)** | Control Claude Code from your iPhone. Code from anywhere, on any Apple device. |
+| <img src="https://btelo.com/public/logo-vibe-remote.png" width="40" /> | **[Btelo Coding](https://coding.btelo.com)** | Control Claude Code from your iPhone. Code from anywhere, on any Apple device. |
 | <img src="https://btelo.com/public/logo-auto-social.png" width="40" /> | **[Btelo Up](https://up.btelo.com)** | AI-powered social reply assistant. Scout X and Reddit, generate contextual replies, ship. |
 | <img src="https://btelo.com/public/logo-spin.png" width="40" /> | **[Btelo Platform](https://btelo.com)** | The studio hub. Discover products, subscribe, follow the one-person journey. |
 
