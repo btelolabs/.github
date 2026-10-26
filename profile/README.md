@@ -35,6 +35,7 @@ no shipping for shipping's sake.
 | <img src="https://btelo.com/public/logo-vibe-remote.png" width="40" /> | **[Btelo Coding](https://coding.btelo.com)** | Control Claude Code, Codex, OpenCode, or Copilot CLI from your iPhone. Code from anywhere, on any Apple device. |
 | <img src="https://btelo.com/public/logo-btelo-english.png" width="40" /> | **[Btelo English](https://english.btelo.com)** | Learn English by reading, watching, and writing in it. Tap any word to open instant word cards. |
 | <img src="https://btelo.com/public/logo-auto-social.png" width="40" /> | **[Btelo Up](https://up.btelo.com)** | AI-powered social reply assistant. Scout X and Reddit, generate contextual replies, ship. |
+| <img src="https://raw.githubusercontent.com/btelolabs/.github/main/profile/assets/logo-btelo-video-cut.png" width="40" /> | **[btelo-video-cut](https://github.com/btelolabs/btelo-video-cut)** | Native video editor for Windows and macOS. Cut, compress hard, add music and subtitles — and let AI drive it over MCP. |
 | <img src="https://btelo.com/public/logo-spin.png" width="40" /> | **[Btelo Platform](https://btelo.com)** | The studio hub. Discover products, subscribe, follow the one-person journey. |
 
 ## Stack
